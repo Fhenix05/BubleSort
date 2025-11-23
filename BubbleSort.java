@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class BubleSort {
+public class BubbleSort {
 
        public static void bubbleSort(int[] arr) {
         int n = arr.length;
